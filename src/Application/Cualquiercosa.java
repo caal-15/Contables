@@ -33,8 +33,8 @@ public class Cualquiercosa {
         }
         
 
-        Mongo mio = new Mongo();
-        General g = new General(mio, "contables");
+        //Mongo mio = new Mongo();
+        //General g = new General(mio, "contables");
         
 
         
